@@ -1,5 +1,9 @@
 GET http://localhost:3000
 
-### Task 1
-GET http://homeworktask.infare.lt/
+### Test API
+GET http://homeworktask.infare.lt/search.php?from=MAD&to=AUH&depart=2024-01-27&return=2024-02-16
+
+### Load page
+GET http://homeworktask.infare.lt
+
 ###
